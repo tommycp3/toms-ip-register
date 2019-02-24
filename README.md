@@ -11,10 +11,12 @@ To-Do - to add a web interface
 - ...
 
 
-
+## IP Registry
 Registry of Zipped files and their associated Ethereum Deployed storedIPHash Contracts.
 
 PLEASE NOTE: A link to the ethereum contract pulled via etherscan that contains their hash is saved to the ethereum public blockchain.
+
+
 
 IP1.txt.zip - 
 https://etherscan.io/address/0x353cb8bd3f9d4216546d6bfb47cdeab6ae1b3e3d#code
