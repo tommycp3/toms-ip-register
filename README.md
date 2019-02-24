@@ -28,7 +28,7 @@ IP3-
 etc.
 
 
-Process to add a hash to ethereum blockchain of a zipped file.
+## Process to add a hash to ethereum blockchain of a zipped file.
 
 1. Place zipped file/folder from client into the ipfiles folder following the naming convention IP(number)-(any other text).zip
 2. Update name of .zipped file/folder in hasher-md5-functions.js
