@@ -1,7 +1,7 @@
 var fs = require("fs");
 
 // Synchronous read
-var data = fs.readFileSync('./files/file2.zip');
+var data = fs.readFileSync('./ipfiles/IP1.txt.zip');
 console.log("Synchronous read: " + data.toString());
 
 
